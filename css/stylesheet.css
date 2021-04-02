@@ -1,0 +1,55 @@
+
+h2 {font-family: futura-pt-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;}
+
+body {background-color: cyan;}
+
+
+h1 {font-family: 'VT323', monospace; 
+}
+
+.intro {font-family: 'VT323', monospace;
+font-size: 36px; 
+max-width: fit-content;
+margin: auto;
+text-align: center;
+line-height: 20px;
+}
+.mb { height: 5px;
+}
+h3
+{font-family: 'VT323', monospace; 
+    font-weight:900;
+    font-size: 73px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+.problem {
+    font-family: futura-pt, sans-serif;
+    font-size: 25px;
+font-weight: 500;
+font-style: normal;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+}
+    
+    .dash {font-family: 'VT323', monospace;
+    }
+
+    .interview {font-family: futura-pt, sans-serif;
+        font-size: 25px;
+    font-weight: 500;
+    font-style: normal;
+        max-width: 800px;
+        margin: auto;
+        text-align: center;
+        
+    }
+
+    .center
+    { display: block;
+    margin-left: auto;
+margin-right: auto;}
