@@ -23,6 +23,12 @@ li {
   justify-content: center;
 }
 
+header {overflow: hidden;
+    position: fixed; 
+    background-color: cyan;
+    top: 0; 
+    width: 100%;}
+
   a:link{
       text-decoration: none;
       color: black;
